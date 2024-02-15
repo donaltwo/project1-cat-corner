@@ -14,3 +14,8 @@ button:hover
 background-color:orangered;
 }
 
+body
+{
+display: contents;
+justify-content: center;
+}
