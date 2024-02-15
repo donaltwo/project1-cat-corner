@@ -11,6 +11,7 @@ Version 1.0
 *Made a CSS style sheet.
 *Found images to use as placeholders*
 *Wrote text content for website.
+*Made a home button.
 
 Acknowledgements
 Thanks to the online resources and my mentor who aided me in creating this project including:
