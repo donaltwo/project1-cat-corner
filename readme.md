@@ -16,7 +16,7 @@ Version 1.0
 ISSUES
 X Home Button only displaying on Gallery and not FAQ and bookings.
 X Hero image not displaying.
-X Unsure CSS is liking correctly. 
+XCSS isn't linking correctly. 
 X text content not matching what's coded on index.
 
 Acknowledgements
