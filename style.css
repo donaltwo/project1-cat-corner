@@ -1,4 +1,4 @@
-p 
+p
 {
     color:black;
     font-size:36px;
@@ -8,12 +8,8 @@ button
 border:20px;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 font-size: large;
-}
-button:hover
-{
 background-color:orangered;
 }
-
 body
 {
 display: contents;
