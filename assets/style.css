@@ -1,14 +1,6 @@
-/* Header*/
-header {
-background-color:aqua
+/* Astreisk Wildcard selector override browser default styles*/
+*{
+padding:0;
+margin: 0;
+box-sizing: border-box;
 }
-/* Main*/
-main
-{
-background-color:green;}
-/* Footer*/
-footer{
-background-color: blueviolet;
-}
-
-
