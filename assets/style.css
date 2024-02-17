@@ -40,11 +40,11 @@ header {
     }
     /* Main*/
     main {
-    background-color:green;
+    background-color:white;
 /*Fit content to take up space pushing footer down*/
     flex: 1 0 auto;
 }
     /* Footer*/
     footer {
-    background-color: blueviolet;
+    background-color: white;
     }
