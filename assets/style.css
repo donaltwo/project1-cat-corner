@@ -9,11 +9,13 @@ box-sizing: border-box;
 /*Nav Bar Styling*/
 nav {
 position:absolute;
+background-color: blanchedalmond;
 width:100%;
 left:0;
 padding:0 1rem;
 box-shadow: 0 2px 2px #3a3a3a;
 display:none;
+top:100%;
 }
 /* General Styles*/
 body
@@ -37,13 +39,12 @@ header {
     align-items: baseline;
     }
     /* Main*/
-    main
-    {
+    main {
     background-color:green;
 /*Fit content to take up space pushing footer down*/
     flex: 1 0 auto;
 }
     /* Footer*/
-    footer{
+    footer {
     background-color: blueviolet;
     }
