@@ -9,9 +9,9 @@ box-sizing: border-box;
 /*Nav Bar Styling*/
 nav {
 position:absolute;
-width:fit-content;
-align-self:left;
-padding:0%;
+width:100%;
+left:0;
+padding:0 1rem;
 box-shadow: 0 2px 2px #3a3a3a;
 }
 /* General Styles*/
