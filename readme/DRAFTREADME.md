@@ -14,9 +14,6 @@ Version 1.0
 *Made a home button.
 
 ISSUES
-X Home Button only displaying on Gallery and not FAQ and bookings.
-X Hero image not displaying.
-X CSS isn't linking correctly. 
 
 
 Acknowledgements
