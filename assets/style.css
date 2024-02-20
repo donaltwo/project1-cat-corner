@@ -32,6 +32,11 @@ justify-content: center;
 /*General Project Style*/
 color:#3a3a3a;
 }
+/*Gallery Styling*/
+gallery {
+max-width:100%;
+height:auto;
+}
 /* Form Styling*/
 form {
 background-image:url(https://i.imgur.com/rMXBbve.jpeg);
