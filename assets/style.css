@@ -19,13 +19,9 @@ bottom:0;
 /*Nav Bar Styling*/
 nav {
 position:absolute;
-background-color: blanchedalmond;
-width:100%;
-left:0;
-padding:0 1rem;
+background-color: rgb(70, 25, 71);
 box-shadow: 0 2px 2px #3a3a3a;
 display:flex;
-top:100%;
 }
 /* General Styles*/
 body
