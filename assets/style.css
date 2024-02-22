@@ -31,10 +31,10 @@ font-family:Montserrat;
 color:#3a3a3a;
 }
 /*Gallery Styling*/
-#gallery img
+#gallery
 {
-height:500px;
-width:500px;
+max-width:50%;
+max-height:50%
 }
 /* Form Styling*/
 form {
