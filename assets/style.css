@@ -47,13 +47,13 @@ max-height:50%
 .form-container
 {
     background-image:url(https://i.imgur.com/CvHMZe2.jpeg);
-    background-size:cover;
+    background-size:auto;
     display:flex;
 }
 form {
 display:flex;
 flex-direction: column;
-width: fit-content;
+width: ;
 }
 /* Header*/
 header {
