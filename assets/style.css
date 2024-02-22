@@ -36,9 +36,8 @@ color:#3a3a3a;
 }
 /*Gallery Styling*/
 .gallery {
-display:contents;
-flex:auto;
-
+height:500px;
+width:500px;
 }
 /* Form Styling*/
 form {
