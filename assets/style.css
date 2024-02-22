@@ -31,7 +31,7 @@ font-family:Montserrat;
 color:#3a3a3a;
 }
 /*Gallery Styling*/
-#gallery {
+#gallery.img {
 height:500px;
 width:500px;
 }
