@@ -1,11 +1,6 @@
 /* Google Fonts Import Montserrat */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap')
 /* Astreisk Wildcard selector override browser default styles*/
-*{
-padding:0;
-margin: 0;
-box-sizing: border-box;
-}
 /*Background video*/
 #background-video
 {
@@ -32,6 +27,7 @@ min-height: 100vh;
 display:flex;
 flex-direction: column;
 justify-content: center;
+font-family:Montserrat;
 /*General Project Style*/
 color:#3a3a3a;
 }
