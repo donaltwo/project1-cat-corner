@@ -13,11 +13,20 @@ opacity: 0.5;
 }
 /*Nav Bar Styling*/
 nav {
-position:fixed;
+position:absolute;
 top:0;
 box-shadow: 0 2px 2px #3a3a3a;
 display:flexbox;
 justify-content:center;
+}
+#nav.toggle-label
+{
+cursor: pointer;
+}
+ul{
+list-style: none;
+padding:0;
+display:flex;
 }
 /* General Styles*/
 body
