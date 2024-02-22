@@ -32,6 +32,7 @@ position:fixed;
 top:0;
 box-shadow: 0 2px 2px #3a3a3a;
 display:flexbox;
+justify-content:center;
 }
 /* General Styles*/
 body
