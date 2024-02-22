@@ -19,14 +19,7 @@ box-shadow: 0 2px 2px #3a3a3a;
 display:flex;
 justify-content:space-between;
 align-items:baseline;
-font-size: larger;
-
-
-}
-#nav.toggle-label
-{
-cursor: pointer;
-}
+font-size: larger;}
 ul{
 list-style: none;
 padding:0;
