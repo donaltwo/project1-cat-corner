@@ -44,6 +44,10 @@ color:#3a3a3a;
 max-width:50%;
 max-height:50%
 }
+#gallery img
+{
+object-fit: cover;
+}
 /* Form Styling*/
 .form-container
 {
