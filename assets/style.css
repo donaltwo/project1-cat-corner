@@ -7,7 +7,7 @@ margin: 0;
 box-sizing: border-box;
 }
 /*Background video*/
-background-video
+#background-video
 {
 position:fixed;
 width:100%;
@@ -20,7 +20,7 @@ opacity: 0.5;
 /*Nav Bar Styling*/
 nav {
 position:fixed;
-top:100%;
+top:0;
 box-shadow: 0 2px 2px #3a3a3a;
 display:flexbox;
 }
