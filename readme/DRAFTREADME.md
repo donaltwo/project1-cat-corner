@@ -20,3 +20,4 @@ Acknowledgements
 Thanks to the online resources and my mentor who aided me in creating this project including:
 Font Awesome Kit for icons and Javascript line: https://fontawesome.com/
 W3schools.com
+https://www.w3schools.com/css/css_display_visibility.asp

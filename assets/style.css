@@ -15,9 +15,9 @@ opacity: 0.5;
 nav {
 position:fixed;
 top:0;
-box-shadow: 0 2px 2px #3a3a3a;
+box-shadow: 0 2px 2px purple;
 display:flex;
-justify-content:space-between;
+justify-content:space-eve;
 align-items:baseline;
 font-size: larger;}
 ul{
@@ -34,7 +34,7 @@ display:flex;
 align-items: center;
 flex-direction: column;
 justify-content: center;
-font-family:Montserrat;
+font-family:Montserrat, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 /*General Project Style*/
 color:#3a3a3a;
 }
@@ -58,7 +58,7 @@ object-fit: cover;
     display:flex;
 }
 form {
-display:flex;
+display:contents;
 flex-direction: column;
 }
 /* Header*/
@@ -75,11 +75,10 @@ header {
     }
 .hero {
 background-image:url(https://i.imgur.com/rMXBbve.jpeg);
-background-size: cover;
+background-size: auto;
 background-position:center;
 color:blueviolet;
-text-align:start;
-padding:50px;
+text-align:center;
 }
     /* Main*/
     main {
