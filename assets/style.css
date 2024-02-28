@@ -96,11 +96,13 @@ header {
     }
 .hero {
 background-image:url(https://i.imgur.com/rMXBbve.jpeg);
-background-size:cover;
+min-width:100%;
+height:auto;
 background-repeat: no-repeat;
-background-position:center;
+background-position:relative;
 color:blueviolet;
 text-align:center;
+z-index: 1;
 }
     /* Main*/
     main {
