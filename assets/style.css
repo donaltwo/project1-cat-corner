@@ -111,7 +111,8 @@ header {
       }
       
       .hero {
-        height: 100vh; /* Assuming you want the header to cover the full viewport height */
+        height: 50vw;
+        width:50vh;
         display: flex;
         justify-content: center;
         align-items: center;
