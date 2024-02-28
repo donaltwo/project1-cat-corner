@@ -9,6 +9,7 @@ min-height:100%;
 right:0;
 bottom:0;
 z-index:-1;
+opacity:25%;
 }
 /*Nav Bar Styling*/
 nav {
