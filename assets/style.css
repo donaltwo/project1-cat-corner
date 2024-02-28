@@ -95,8 +95,8 @@ header {
     }
 .hero {
 background-image:url(https://i.imgur.com/rMXBbve.jpeg);
-min-width:100%;
-height:auto;
+min-width:50%;
+height:50%;
 background-repeat: no-repeat;
 background-position:relative;
 color:blueviolet;
