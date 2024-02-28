@@ -75,7 +75,7 @@ header {
     }
 .hero {
 background-image:url(https://i.imgur.com/rMXBbve.jpeg);
-background-size:contain;
+background-size:cover;
 background-repeat: no-repeat;
 background-position:center;
 color:blueviolet;
@@ -83,7 +83,7 @@ text-align:center;
 }
     /* Main*/
     main {
-    background-color:white;
+    background-color:black;
 /*Fit content to take up space pushing footer down*/
     flex: 1 0 auto;
 }
