@@ -94,7 +94,7 @@ header {
     justify-content: space-between;
     align-items: baseline;
     }
-    #hero-image {
+    .hero-image {
         height: 800px;
         width:100%;
         background-image: url(https://i.imgur.com/rMXBbve.jpeg);
@@ -102,7 +102,7 @@ header {
         background-position: center;
       }
       
-      #hero {
+      .hero {
         color: blueviolet;
         text-align: center;
         z-index: 1;
