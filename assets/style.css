@@ -108,14 +108,7 @@ header {
         z-index: 1;
         overflow: hidden;
       }
-      
-      .hero {
-        height: 25vw;
-        width: 25vh;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-      }
+  
     /* Main*/
     main {
     background-color:white;
