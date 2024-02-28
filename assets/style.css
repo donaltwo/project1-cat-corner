@@ -103,7 +103,7 @@ background-repeat: no-repeat;
 background-position:relative;
 color:blueviolet;
 text-align:center;
-z-index: 1;
+z-index: 0;
 }
     /* Main*/
     main {
