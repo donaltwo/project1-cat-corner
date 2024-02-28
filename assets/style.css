@@ -87,7 +87,20 @@ padding:50px;
 /*Fit content to take up space pushing footer down*/
     flex: 1 0 auto;
 }
-    /* Footer*/
-    footer {
-    background-color: white;
-    }
+/* Footer*/
+footer {
+background-color: white;
+}
+footer ul 
+{
+list-style:none;
+padding: 0 rem;
+}
+footer li {
+display:inline-block;
+margin: right 15px;
+}
+
+footer i {
+font-size: 36px;
+}
