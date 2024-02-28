@@ -16,7 +16,6 @@ nav {
 position:fixed;
 top:0;
 left:0;
-box-shadow: 0 2px 2px purple;
 display:flex;
 justify-content:space-evenly;
 align-items:center;
