@@ -1,36 +1,40 @@
 <html>
+
 <head>
-<link rel="stylesheet" href="assets/style.css">
+    <link rel="stylesheet" href="assets/style.css">
 </head>
+
 <body>
     <header>
         <nav>
-        <ul>
-        <li><a href="index.html">HOME</a></li>
-        <li><a href="BOOKINGS.html">BOOKINGS</a></li>
-        <li><a href="FAQ.html">FAQ</a></li>
-        <li><a href="GALLERY.html">GALLERY</a></li>
-        </ul>
+            <ul>
+                <li><a href="index.html">HOME</a></li>
+                <li><a href="BOOKINGS.html">BOOKINGS</a></li>
+                <li><a href="FAQ.html">FAQ</a></li>
+                <li><a href="GALLERY.html">GALLERY</a></li>
+            </ul>
         </nav>
-        </header>
-<h1>BOOKINGS</h1>
-<div class="form-container">
-<form  class="form" method="get" action="confirmation.html">
-<ul>
-<li>
-<label for="fname">First Name: </label>
-<input type ="text" required checked> 
-<label for="lname">Last Name:</label>
-<input type ="text" required checked>
-<label for="email">E-Mail:</label>
-<input type ="text" required checked>
-<label for="phone">Phone:</label>
-<input type ="text" required checked>
-</li>
-<input type="submit">
-</ul>
-</form>
-</div>
-<button onclick="window.location.href='index.html'">HOME</button>
+    </header>
+    <h1>BOOKINGS</h1>
+    <div class="form-container">
+        <form class="form" method="get" action="confirmation.html">
+            <!--Each element needs a li-->
+            <ul>
+                <li>
+                    <label for="fname">First Name: </label>
+                    <input type="text" required checked>
+                    <label for="lname">Last Name:</label>
+                    <input type="text" required checked>
+                    <label for="email">E-Mail:</label>
+                    <input type="text" required checked>
+                    <label for="phone">Phone:</label>
+                    <input type="text" required checked>
+                </li>
+                <input type="submit">
+            </ul>
+        </form>
+    </div>
+    <button onclick="window.location.href='index.html'">HOME</button>
 </body>
+
 </html>
