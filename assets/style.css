@@ -18,13 +18,11 @@ nav {
   position: absolute;
   top: 0;
   left: 0;
-  display: flex;
-  background-color:black;
+  display:inline-block;
   justify-content: space-evenly;
   align-items: center;
   font-size: larger;
   z-index:1000;
-  list-style:none;
 }
 
 nav ul li {
