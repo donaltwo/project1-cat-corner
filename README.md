@@ -47,16 +47,28 @@ This is why there is over 250+ commits present on the website, I wanted to make 
 | Booking form requires text to completete. | Message displays correctly. | PASS |
 | Booking form submit clicked. | takes user to confirmation page | PASS |
 
-Lighthouse
+Lighthouse Scoring
 ![Lighthouse scores for performance, acessibility, best practices, SEO](https://github.com/donaltwo/project1-cat-corner/assets/155965788/99e48b76-26df-48e1-b4dc-a3bfdeb33913)
 
 
 Validator Testing
 HTML
+
 CSS
+![CSS scoring](https://github.com/donaltwo/project1-cat-corner/assets/155965788/2f661f75-863d-451e-9e1e-2ecdc47df36f)
+<p>
+    <a href="http://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="http://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" />
+    </a>
+</p>
+       
+
 
 Unfixed Bugs
-Due to time constarints
+Due to time constarints I couldn't figure how to get text to display correctly over my hero image.
+I found the gallery section challenging to constrain.
 
 Deployment
 
