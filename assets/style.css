@@ -54,6 +54,7 @@ body {
   object-fit: cover;
   display:flex;
   flex-wrap:wrap;
+  flex-direction: row;
 }
 
 .responsive {
@@ -124,7 +125,7 @@ main {
 
 /* Footer*/
 footer {
-  background-color: white;
+  background-color:#ffffff00;
 }
 
 footer ul {
