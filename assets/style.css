@@ -1,6 +1,7 @@
 /* Google Fonts Import Montserrat */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
+
 /* Astreisk Wildcard selector override browser default styles*/
 /*Background video*/
 #background-video {
@@ -105,7 +106,6 @@ header {
   background-image: url(https://i.imgur.com/rMXBbve.jpeg);
   background-repeat: no-repeat;
   background-position: center;
-  border: solid, black, 15px;
 }
 
 .hero{
@@ -129,7 +129,6 @@ footer {
 
 footer ul {
   list-style: none;
-  padding: 0 rem;
 }
 
 footer li {
