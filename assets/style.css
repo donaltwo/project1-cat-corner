@@ -21,6 +21,7 @@ nav {
   justify-content: space-evenly;
   text-align: center;
   font-size:xx-large;
+  background-color: antiquewhite;
   z-index:1000;
 }
 
