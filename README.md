@@ -1,17 +1,22 @@
 Introduction
+To run a frontend (HTML, CSS, Javascript only) application in the terminal, type:
+
+python3 -m http.server
 Cat Corner
 Welcome to Cat Corner a website dedicated to lovers of cats and coffee! I used my own two cats Diablo and Persephone and built a website around them. The site's audience if for anyone who likes cats and relaxation.
 
 Prepation Phase
 I began by brainstorming the concept and creating a wire frame on Figma for the skeleton for the website.
-The audience for my website is for cat loving adults so I wanted to ahcieve a sleek and robut website.
-I decided on the colours black and purple for the design element for a nice contrast and style.
+The audience for my website is for cat loving adults so I wanted to achieve a sleek and robut website.
+I decided on the colours black white and purple for the design element for a nice contrast and style.
 I collected images for the website and took a video for the background.
 
 Features
-Nav bar (Screenshot needed)
+Nav bar 
+
 Present on all pages the nav bar is fully accessible and responsive for users to navigate through the website.
-Hero Image (Screenshot needed)
+Hero Image 
+![Alt text](image.png)
 This landing image anchors the home page and capture's user attention.
 Footer (Screenshot needed)
 Gallery (Screenshot needed)
