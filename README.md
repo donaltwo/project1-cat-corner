@@ -22,7 +22,7 @@ Testing
 To highlight an initial misunderstanding of mine as this was my first time using Github was that I would make very minor changes, fixing a typo, coding a single line etc and would save committed the changes and push to see the effected changes reflected in my local copy of the website.
 This is why there is over 200+ commits present on the website, I wanted to make note of it as a rookie error that I've learnt from.
 
-| ACTION | EXPECTED BEHAVIOUR|| PASS/FAIL|
+| ACTION | EXPECTED BEHAVIOUR| PASS/FAIL|
 | ------------- | ------------- |-------------|
 | Nav bar home text| Take user to home page when clicked. | PASS |
 | Nav bar bookings text | Take user to booking form page when clicked. | PASS |
