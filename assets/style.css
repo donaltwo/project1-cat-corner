@@ -17,7 +17,7 @@
 nav {
   position: fixed;
   top: 0;
-  left: 0;
+  right: 0;
   justify-content: space-evenly;
   text-align: center;
   font-size: larger;
@@ -33,7 +33,7 @@ nav ul li {
 /* General Styles*/
 body {
   min-height: 100vh;
-  display:inline;
+  display:inline-block;
   align-items:center;
   justify-content:center;
   background: linear-gradient(0deg, rgb(238, 130, 238),rgb(255,255,255));
