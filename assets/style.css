@@ -33,7 +33,7 @@ nav ul li {
 /* General Styles*/
 body {
   min-height: 100vh;
-  display:flex;
+  display:inline;
   align-items:center;
   justify-content:center;
   background: linear-gradient(0deg, rgb(238, 130, 238),rgb(255,255,255));
