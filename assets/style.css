@@ -21,7 +21,7 @@ nav {
   justify-content: space-evenly;
   text-align: center;
   font-size:xx-large;
-  background-color: antiquewhite;
+  background-color: black;
   z-index:1000;
 }
 
@@ -43,23 +43,21 @@ body {
 }
 
 /*Gallery Styling*/
-#gallery {
-  max-width: 50%;
-  max-height: 50%
+
+.responsive {
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.gallery {
+  display: inline;
+  justify-content: space-between;
 }
 
 .gallery img {
   max-width: 100%;
   height: auto;
-  object-fit: cover;
-  display:flex;
-  flex-direction: row;
-}
-
-.responsive .gallery{
-  padding: 0 5px;
-  float: left;
-  width: 25%;
+  margin-bottom: 15px;
 }
 
 @media only screen and (max-width: 700px) {
@@ -78,14 +76,14 @@ body {
   background-image: url(https://i.imgur.com/CvHMZe2.jpeg);
   background-repeat: no-repeat;
   background-size: contain;
-  font-size: 24px;
-  list-style: none;
   display: flex;
 }
 
 form {
   display: contents;
   flex-direction: row;
+  font-size: 24px;
+  list-style: none;
 }
 
 /* Header*/
@@ -107,7 +105,7 @@ header {
   background-image: url(https://i.imgur.com/rMXBbve.jpeg);
   background-repeat: no-repeat;
   background-position: center;
-  border: black, 15px;
+  border: solid, black, 15px;
 }
 
 .hero {
