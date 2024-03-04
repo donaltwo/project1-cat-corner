@@ -108,11 +108,12 @@ header {
   border: solid, black, 15px;
 }
 
-.hero {
+.hero{
   color: blueviolet;
   text-align: center;
   z-index: 1;
   overflow: hidden;
+  font-size:5rem;
 }
 
 /* Main*/
