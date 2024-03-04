@@ -20,7 +20,7 @@ nav {
   right: 0;
   justify-content: space-evenly;
   text-align: center;
-  font-size: larger;
+  font-size:medium;
   z-index:1000;
 }
 
