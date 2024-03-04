@@ -52,7 +52,8 @@ body {
   max-width: 100%;
   height: auto;
   object-fit: cover;
-  display:inline-block;
+  display:flex;
+  flex-wrap:wrap;
 }
 
 .responsive {
