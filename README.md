@@ -24,10 +24,10 @@ This is why there is over 200+ commits present on the website, I wanted to make 
 
 | ACTION | EXPECTED BEHAVIOUR| PASS/FAIL|
 | ------------- | ------------- |-------------|
-| Nav bar home text| Take user to home page when clicked. | PASS |
-| Nav bar bookings text | Take user to booking form page when clicked. | PASS |
-| Nav bar FAQ text | Take user to FAQ page when clicked. | PASS |
-| Nav bar Gallery text | Take user to gallery page when clicked. | PASS |
+| Nav bar home text clicked.| Take user to home page when clicked. | PASS |
+| Nav bar bookings text clicked.| Take user to booking form page when clicked. | PASS |
+| Nav bar FAQ text clciked.| Take user to FAQ page when clicked. | PASS |
+| Nav bar Gallery text clicked.| Take user to gallery page when clicked. | PASS |
 | Booking form requires text to completete. | Message displays correctly. | PASS |
 | Booking form submit clicked. | takes user to confirmation page | PASS |
 
