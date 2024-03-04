@@ -34,14 +34,14 @@ nav ul li {
 /* General Styles*/
 body {
   min-height: 100vh;
-  background-image:linear-gradient(0deg, 	r: 160, g: 32, b: 240,(0,0,0));
+  background-image:linear-gradient(0deg, rgb(238,130,238)rgb( 0,0,0));
   display:flex;
   align-items:center;
   flex-direction:column;
   justify-content: enter;
   font-family:Montserrat, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size:48px;
-  color:(255,255,255);
+  color:white;
 }
 
 /*Gallery Styling*/
@@ -119,7 +119,6 @@ header {
 
 /* Main*/
 main {
-  background-color: white;
   /*Fit content to take up space pushing footer down*/
   flex: 1 0 auto;
 }
