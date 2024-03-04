@@ -43,9 +43,10 @@ body {
   color:white;
 }
 
-#body{
-  background-image:linear-gradient(0deg, rgb(238,130,238)rgb( 0,0,0));
+#body {
+  background: linear-gradient(0deg, rgb(238, 130, 238), rgb(0, 0, 0));
 }
+
 /*Gallery Styling*/
 #gallery {
   max-width: 50%;
