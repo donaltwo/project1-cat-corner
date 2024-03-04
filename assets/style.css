@@ -53,11 +53,10 @@ body {
   height: auto;
   object-fit: cover;
   display:flex;
-  flex-wrap:wrap;
   flex-direction: row;
 }
 
-.responsive {
+.responsive .gallery{
   padding: 0 5px;
   float: left;
   width: 25%;
