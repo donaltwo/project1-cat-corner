@@ -61,6 +61,8 @@ Lighthouse Scoring
 
 Validator Testing
 HTML
+![W3C Html Checker](https://github.com/donaltwo/project1-cat-corner/assets/155965788/bd9265db-aac0-4631-9e23-f6fee134b0ec)
+
 
 CSS
 ![CSS scoring](https://github.com/donaltwo/project1-cat-corner/assets/155965788/2f661f75-863d-451e-9e1e-2ecdc47df36f)
