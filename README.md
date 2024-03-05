@@ -1,4 +1,4 @@
-[# Table of Contents
+# Table of Contents
 Introduction
 Preparation Phase
 Features
@@ -102,10 +102,9 @@ All the images and video were taken by myself Donal Twomey and therefore my own 
 
 # ** Credits & Acknowledgements**
 Thanks to the online resources and my mentor Dick V. who aided me in creating this project! 
-[Code Institute Love Running Project](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LRFX101+2023_Q2/courseware/e805068059af42af87681032aa64053f/1da6ad13213740f1855a51d30a2375b1/)
-[Font Awesome Kit for icons and Javascript lines](https://fontawesome.com/)
-[W3schools.com Image Gallery](https://www.w3schools.com/css/css_image_gallery.asp)
-[W3school.com Display Visibility](https://www.w3schools.com/css/css_display_visibility.asp)
-[Hubspot Hero Image](https://blog.hubspot.com/marketing/hero-image)
-[Mozilla CSS Background Size](https://developer.mozilla.org/en-US/docs/Web/CSS/background-size)
-](https://chat.openai.com/c/84b00e3c-6ecb-42c6-9f1d-ecd14fd469de#:~:text=Cat%20Corner%20Website,CSS%20Background%20Size)https://chat.openai.com/c/84b00e3c-6ecb-42c6-9f1d-ecd14fd469de#:~:text=Cat%20Corner%20Website,CSS%20Background%20Size
+1.[Code Institute Love Running Project](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LRFX101+2023_Q2/courseware/e805068059af42af87681032aa64053f/1da6ad13213740f1855a51d30a2375b1/)
+2.[Font Awesome Kit for icons and Javascript lines](https://fontawesome.com/)
+3.[W3schools.com Image Gallery](https://www.w3schools.com/css/css_image_gallery.asp)
+4.[W3school.com Display Visibility](https://www.w3schools.com/css/css_display_visibility.asp)
+5.[Hubspot Hero Image](https://blog.hubspot.com/marketing/hero-image)
+6.[Mozilla CSS Background Size](https://developer.mozilla.org/en-US/docs/Web/CSS/background-size)
