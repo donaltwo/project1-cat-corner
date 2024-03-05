@@ -1,4 +1,4 @@
-# ** Table of Contents**
+# Table of Contents
 Introduction
 Preparation Phase
 Features
@@ -38,7 +38,7 @@ This landing image anchors the home page and capture's user attention.
 Directs the user to external social media links.
 
 4. Gallery 
-!cat lying on purple bed](https://github.com/donaltwo/project1-cat-corner/assets/155965788/58078bdc-8aec-4303-8307-180ede2e26fb)
+![cat lying on purple bed](https://github.com/donaltwo/project1-cat-corner/assets/155965788/58078bdc-8aec-4303-8307-180ede2e26fb)
 
 The gallery features multiple images of the two cats for the website.
 
@@ -90,7 +90,7 @@ This is why there is over 250+ commits present on the website, I wanted to make 
        
 
 
-# ** nfixed Bugs**
+# ** Unfixed Bugs**
 Due to time constraints I couldn't figure how to get text to display correctly over my hero image.
 I found the gallery section challenging to constrain.
 
