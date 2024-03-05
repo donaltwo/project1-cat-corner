@@ -1,6 +1,14 @@
 (To run a frontend (HTML, CSS, Javascript only) application in the terminal, type:
 'python3 -m http.server')
 
+#Table of Contents
+Introduction
+Prepation Phase
+Features
+Testing
+Validation
+Credits * Acknowledegemtns
+
 Introduction
 Cat Corner
 Welcome to Cat Corner a website dedicated to lovers of cats and coffee! I used my own two cats Diablo and Persephone and built a website around them. The site's audience if for anyone who likes cats and relaxation.
@@ -71,18 +79,16 @@ Due to time constarints I couldn't figure how to get text to display correctly o
 I found the gallery section challenging to constrain.
 
 Deployment
+I published the Github page with my website.
 
 Media
 All the images and video were taken by myself Donal Twomey and therefore my own works that are displayed.
 
 Credits & Acknowledgements
 Thanks to the online resources and my mentor Dick V. who aided me in creating this project! 
-Code Isnitiute Love Running Project
-Font Awesome Kit for icons and Javascript line: https://fontawesome.com/
-W3schools.com:
-https://www.w3schools.com/css/css_display_visibility.asp
-https://www.w3schools.com/css/css_image_gallery.asp
-Hubspot:
-https://blog.hubspot.com/marketing/hero-image
-Mozilla:
-https://developer.mozilla.org/en-US/docs/Web/CSS/background-size
+[Code Isnitiute Love Running Project]()
+[Font Awesome Kit for icons and Javascript lines] (https://fontawesome.com/)
+[W3schools.com Image Gallery](https://www.w3schools.com/css/css_image_gallery.asp)
+[W3school.com Display Visibility](https://www.w3schools.com/css/css_display_visibility.asp)
+[Hubspot Hero Image](https://blog.hubspot.com/marketing/hero-image)
+[Mozilla CSS Backgrtound Size] (https://developer.mozilla.org/en-US/docs/Web/CSS/background-size)
