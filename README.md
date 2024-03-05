@@ -1,4 +1,4 @@
-# Table of Contents
+[# Table of Contents
 Introduction
 Preparation Phase
 Features
@@ -108,3 +108,4 @@ Thanks to the online resources and my mentor Dick V. who aided me in creating th
 [W3school.com Display Visibility](https://www.w3schools.com/css/css_display_visibility.asp)
 [Hubspot Hero Image](https://blog.hubspot.com/marketing/hero-image)
 [Mozilla CSS Background Size](https://developer.mozilla.org/en-US/docs/Web/CSS/background-size)
+](https://chat.openai.com/c/84b00e3c-6ecb-42c6-9f1d-ecd14fd469de#:~:text=Cat%20Corner%20Website,CSS%20Background%20Size)https://chat.openai.com/c/84b00e3c-6ecb-42c6-9f1d-ecd14fd469de#:~:text=Cat%20Corner%20Website,CSS%20Background%20Size
