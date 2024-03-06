@@ -29,7 +29,8 @@ I collected images for the website and took a video for the background.
    
 ![Navigation bar for website]!(https://github.com/donaltwo/project1-cat-corner/assets/155965788/02bd9a3c-7536-47ac-9028-167cf9b18476)
 
-Present on all pages the nav bar is fully accessible and responsive for users to navigate through the website.
+Present on  pages the nav bar is fully accessible and responsive for users to navigate through the website.
+It brings the user to the Home, FAQ, Booking and Gallery pages.
 
 2. **Hero Image**
 
@@ -42,19 +43,22 @@ This landing image anchors the home page and capture's user attention.
 ![social media footer](![image](https://github.com/donaltwo/project1-cat-corner/assets/155965788/167bf85e-82e3-407e-b891-f2fb7ecacc5b)
 
 
-Directs the user to external social media links.
+-Directs the user to external social media links Twitter, Tiktok & Instagram.
+
 
 4. **Gallery**
 
 ![cat lying on purple bed](https://github.com/donaltwo/project1-cat-corner/assets/155965788/58078bdc-8aec-4303-8307-180ede2e26fb)
 
-The gallery features multiple images of the two cats for the website.
+- The gallery features multiple images of the two cats for the website.
+- There is responsive media coding to help scale the content for mobile and website.
 
 5. **Booking Form**
    
 ![black cat in Tatyo box](https://github.com/donaltwo/project1-cat-corner/assets/155965788/9556994a-57ad-4fdb-aff1-9d4456c94834)
 
-Has a usable form to complete booking require information be completed before being submitted.
+- Has a usable form to complete booking require information be completed before being submitted.
+- Submit button takes user to confirmation page confirming the booking and response time.
 
 6. **Video background**
 
@@ -81,7 +85,8 @@ This is why there is over 260+ commits present on the website, I wanted to make 
 | Nav bar FAQ text clicked.| Take user to FAQ page when clicked. | PASS |
 | Nav bar Gallery text clicked.| Take user to gallery page when clicked. | PASS |
 | Booking form requires text to completed. | Message displays correctly. | PASS |
-| Booking form submit clicked. | takes user to confirmation page | PASS |
+| Booking form submit clicked. | Takes user to confirmation page | PASS |
+| Home icon | Takes user to index page | PASS |
 
 # Lighthouse Scoring
 ![Lighthouse scores for performance, accessibility, best practices, SEO](https://github.com/donaltwo/project1-cat-corner/assets/155965788/a420c960-0dbd-4b6d-843f-221df21e79ed)
