@@ -130,7 +130,12 @@ Due to this being my first ever website project I struggled with coding and the 
 
 
 # Deployment
+Publishing
 I published the Github page with my website  by going to my repository settings and under the code and automations thus deploying the website to be live.
+1. CLick on settings 2. 3. 4.
+   Cloning
+   Making a copy to be amendable with keeping the original intact extracts the website to a folder.
+   Forking 
 
 #  Media
 All the images and video were taken by myself Donal Twomey and therefore my own works that are displayed.
