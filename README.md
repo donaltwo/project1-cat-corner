@@ -40,7 +40,7 @@ This landing image anchors the home page and capture's user attention.
 
 3. **Footer**
 
-![social media footer](![image](https://github.com/donaltwo/project1-cat-corner/assets/155965788/167bf85e-82e3-407e-b891-f2fb7ecacc5b)
+![social media footer](https://github.com/donaltwo/project1-cat-corner/assets/155965788/167bf85e-82e3-407e-b891-f2fb7ecacc5b)
 
 
 -Directs the user to external social media links Twitter, Tiktok & Instagram.
@@ -76,7 +76,7 @@ This landing image anchors the home page and capture's user attention.
 
 # Testing
 To highlight an initial misunderstanding of mine as this was my first time using Github was that I would make very minor changes, fixing a typo, coding a single line etc. and would save committed the changes and push to see the effected changes reflected in my local copy of the website.
-This is why there is over 270+ commits present on the website, I wanted to make note of it as a rookie error that I've learnt from.
+This is why there is over 280+ commits present on the website, I wanted to make note of it as a rookie error that I've learnt from.
 # Table of Testing Features
 
 | ACTION | EXPECTED BEHAVIOUR| PASS/FAIL|
@@ -88,6 +88,11 @@ This is why there is over 270+ commits present on the website, I wanted to make 
 | Booking form requires text to completed. | Message displays correctly. | PASS |
 | Booking form submit clicked. | Takes user to confirmation page | PASS |
 | Home icon | Takes user to index page | PASS |
+| Tiktok icon and line| Takes user to home page in new tab| PASS |
+| Instagram icon and line| Takes user to home page in new tab| PASS |
+| Twitter icon and line| Takes user to home page in new tab| PASS |
+
+
 
 # Lighthouse Scoring
 ![Lighthouse scores for performance, accessibility, best practices, SEO](https://github.com/donaltwo/project1-cat-corner/assets/155965788/a420c960-0dbd-4b6d-843f-221df21e79ed)
