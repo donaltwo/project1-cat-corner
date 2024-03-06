@@ -64,18 +64,19 @@ This landing image anchors the home page and capture's user attention.
 
 ![cat being pet by a hand video background](https://github.com/donaltwo/project1-cat-corner/assets/155965788/e701c05e-4d1e-4dff-b5ec-194d8929bded)
 
-The confirmation page plays a looped muted video.
+- The confirmation page plays a looped muted video.
 
 7. **Home icon**
-8. 
+
 [Home icon ](https://github.com/donaltwo/project1-cat-corner/assets/155965788/cb77a6a8-e5a1-42d1-b9ce-44c1338e64ef)
 
-At footer of gallery takes user back to home page after scrolling to bottom of gallery page and the confirmation page to direct the user back to the index.
+- At footer of gallery takes user back to home page after scrolling to bottom of gallery page and the confirmation page to direct the user back to the index.
+- Links open in a new tab to the social media home page.
 
 
 # Testing
 To highlight an initial misunderstanding of mine as this was my first time using Github was that I would make very minor changes, fixing a typo, coding a single line etc. and would save committed the changes and push to see the effected changes reflected in my local copy of the website.
-This is why there is over 260+ commits present on the website, I wanted to make note of it as a rookie error that I've learnt from.
+This is why there is over 270+ commits present on the website, I wanted to make note of it as a rookie error that I've learnt from.
 # Table of Testing Features
 
 | ACTION | EXPECTED BEHAVIOUR| PASS/FAIL|
