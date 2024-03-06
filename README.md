@@ -79,26 +79,26 @@ This is why there is over 260+ commits present on the website, I wanted to make 
 ![Lighthouse scores for performance, accessibility, best practices, SEO](https://github.com/donaltwo/project1-cat-corner/assets/155965788/99e48b76-26df-48e1-b4dc-a3bfdeb33913)
 
 
-#  Validator Testing
-1.HTML Index Validation
+# Validator Testing
 
-![W3C Html Checker](https://github.com/donaltwo/project1-cat-corner/assets/155965788/bd9265db-aac0-4631-9e23-f6fee134b0ec)
-2.HTML Booking Validation
+1. **HTML Index Validation**
+   ![W3C Html Checker](https://github.com/donaltwo/project1-cat-corner/assets/155965788/bd9265db-aac0-4631-9e23-f6fee134b0ec)
 
-![W3C Html Checker](https://github.com/donaltwo/project1-cat-corner/assets/155965788/bd9265db-aac0-4631-9e23-f6fee134b0ec)
-3.HTML Confirmation Validation 
+2. **HTML Booking Validation**
+   ![W3C Html Checker](https://github.com/donaltwo/project1-cat-corner/assets/155965788/bd9265db-aac0-4631-9e23-f6fee134b0ec)
 
-![W3C Html Checker](https://github.com/donaltwo/project1-cat-corner/assets/155965788/bd9265db-aac0-4631-9e23-f6fee134b0ec)
-4.HTML Gallery Validation
+3. **HTML Confirmation Validation**
+   ![W3C Html Checker](https://github.com/donaltwo/project1-cat-corner/assets/155965788/bd9265db-aac0-4631-9e23-f6fee134b0ec)
 
-![W3C Html Checker](https://github.com/donaltwo/project1-cat-corner/assets/155965788/bd9265db-aac0-4631-9e23-f6fee134b0ec)
-5.HTML FAQ  Validation
+4. **HTML Gallery Validation**
+   ![W3C Html Checker](https://github.com/donaltwo/project1-cat-corner/assets/155965788/bd9265db-aac0-4631-9e23-f6fee134b0ec)
 
-![W3C Html Checker](https://github.com/donaltwo/project1-cat-corner/assets/155965788/bd9265db-aac0-4631-9e23-f6fee134b0ec)
+5. **HTML FAQ Validation**
+   ![W3C Html Checker](https://github.com/donaltwo/project1-cat-corner/assets/155965788/bd9265db-aac0-4631-9e23-f6fee134b0ec)
 
-6.CSS Validation
+6. **CSS Validation**
+   ![CSS scoring](https://github.com/donaltwo/project1-cat-corner/assets/155965788/2f661f75-863d-451e-9e1e-2ecdc47df36f)
 
-![CSS scoring](https://github.com/donaltwo/project1-cat-corner/assets/155965788/2f661f75-863d-451e-9e1e-2ecdc47df36f)
 <p>
     <a href="http://jigsaw.w3.org/css-validator/check/referer">
         <img style="border:0;width:88px;height:31px"
