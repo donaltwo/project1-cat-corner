@@ -26,11 +26,11 @@ I collected images for the website and took a video for the background.
 
 # Features 
 1. **Nav Bar**
-   
-![Navigation bar for website]!(https://github.com/donaltwo/project1-cat-corner/assets/155965788/02bd9a3c-7536-47ac-9028-167cf9b18476)
 
-Present on  pages the nav bar is fully accessible and responsive for users to navigate through the website.
-It brings the user to the Home, FAQ, Booking and Gallery pages.
+![Navigation bar for website](https://github.com/donaltwo/project1-cat-corner/assets/155965788/02bd9a3c-7536-47ac-9028-167cf9b18476)
+
+-Present on  pages the nav bar is fully accessible and responsive for users to navigate through the website.
+-It brings the user to the Home, FAQ, Booking and Gallery pages.
 
 2. **Hero Image**
 
