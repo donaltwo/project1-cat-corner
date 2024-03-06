@@ -1,13 +1,15 @@
 # Table of Contents
-Introduction
-Preparation Phase
-Features
-Testing
-Validation
-Unfixed Bugs
-Deployment
-Media
-Credits & Acknowledgements
+1. [Introduction](#introduction)
+2. [Preparation Phase](#preparation-phase)
+3. [Features](#features)
+4. [Testing](#testing)
+    - [Table of Testing Features](#table-of-testing-features)
+    - [Lighthouse Scoring](#lighthouse-scoring)
+    - [Validator Testing](#validator-testing)
+5. [Known Issues](#known-issues)
+6. [Deployment](#deployment)
+7. [Media](#media)
+8. [Credits & Acknowledgements](#credits--acknowledgements)
 
 # Introduction 
 Cat Corner
@@ -23,35 +25,44 @@ I collected images for the website and took a video for the background.
 
 # Features 
 1. **Nav Bar**
+   
 ![Navigation bar for website](https://github.com/donaltwo/project1-cat-corner/assets/155965788/2d418ee5-a338-4db9-917b-c2ab05e71216)
 
 Present on all pages the nav bar is fully accessible and responsive for users to navigate through the website.
 
 2. **Hero Image**
+3. 
 ![two cats looking at camera](image.png)
 
 This landing image anchors the home page and capture's user attention.
 
 3. **Footer**
+4. 
 ![social media footer](https://github.com/donaltwo/project1-cat-corner/assets/155965788/b7f96079-d3e2-4ee2-b1fa-73b79dfb3ddd)
 
 Directs the user to external social media links.
 
 4. **Gallery**
+
 ![cat lying on purple bed](https://github.com/donaltwo/project1-cat-corner/assets/155965788/58078bdc-8aec-4303-8307-180ede2e26fb)
 
 The gallery features multiple images of the two cats for the website.
 
-5. **Booking Form** 
+5. **Booking Form**
+   
 ![black cat in Tatyo box](https://github.com/donaltwo/project1-cat-corner/assets/155965788/9556994a-57ad-4fdb-aff1-9d4456c94834)
 
 Has a usable form to complete booking require information be completed before being submitted.
-6. Video background
+
+6. **Video background**
+
 ![cat being pet by a hand video background](https://github.com/donaltwo/project1-cat-corner/assets/155965788/e701c05e-4d1e-4dff-b5ec-194d8929bded)
+
+The confirmation page plays a looped muted video.
 
 # Testing
 To highlight an initial misunderstanding of mine as this was my first time using Github was that I would make very minor changes, fixing a typo, coding a single line etc. and would save committed the changes and push to see the effected changes reflected in my local copy of the website.
-This is why there is over 250+ commits present on the website, I wanted to make note of it as a rookie error that I've learnt from.
+This is why there is over 260+ commits present on the website, I wanted to make note of it as a rookie error that I've learnt from.
 # Table of Testing Features
 
 | ACTION | EXPECTED BEHAVIOUR| PASS/FAIL|
@@ -69,16 +80,23 @@ This is why there is over 250+ commits present on the website, I wanted to make 
 
 #  Validator Testing
 1.HTML Index Validation
+
 ![W3C Html Checker](https://github.com/donaltwo/project1-cat-corner/assets/155965788/bd9265db-aac0-4631-9e23-f6fee134b0ec)
 2.HTML Booking Validation
+
 ![W3C Html Checker](https://github.com/donaltwo/project1-cat-corner/assets/155965788/bd9265db-aac0-4631-9e23-f6fee134b0ec)
 3.HTML Confirmation Validation 
+
 ![W3C Html Checker](https://github.com/donaltwo/project1-cat-corner/assets/155965788/bd9265db-aac0-4631-9e23-f6fee134b0ec)
 4.HTML Gallery Validation
+
 ![W3C Html Checker](https://github.com/donaltwo/project1-cat-corner/assets/155965788/bd9265db-aac0-4631-9e23-f6fee134b0ec)
 5.HTML FAQ  Validation
+
 ![W3C Html Checker](https://github.com/donaltwo/project1-cat-corner/assets/155965788/bd9265db-aac0-4631-9e23-f6fee134b0ec)
+
 6.CSS Validation
+
 ![CSS scoring](https://github.com/donaltwo/project1-cat-corner/assets/155965788/2f661f75-863d-451e-9e1e-2ecdc47df36f)
 <p>
     <a href="http://jigsaw.w3.org/css-validator/check/referer">
