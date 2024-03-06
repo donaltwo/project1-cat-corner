@@ -39,7 +39,8 @@ This landing image anchors the home page and capture's user attention.
 
 3. **Footer**
 
-![social media footer](https://github.com/donaltwo/project1-cat-corner/assets/155965788/b7f96079-d3e2-4ee2-b1fa-73b79dfb3ddd)
+![social media footer](![image](https://github.com/donaltwo/project1-cat-corner/assets/155965788/167bf85e-82e3-407e-b891-f2fb7ecacc5b)
+
 
 Directs the user to external social media links.
 
