@@ -76,7 +76,7 @@ This is why there is over 260+ commits present on the website, I wanted to make 
 | Booking form submit clicked. | takes user to confirmation page | PASS |
 
 # Lighthouse Scoring
-![Lighthouse scores for performance, accessibility, best practices, SEO](https://github.com/donaltwo/project1-cat-corner/assets/155965788/99e48b76-26df-48e1-b4dc-a3bfdeb33913)
+![Lighthouse scores for performance, accessibility, best practices, SEO](https://github.com/donaltwo/project1-cat-corner/assets/155965788/a420c960-0dbd-4b6d-843f-221df21e79ed)
 
 
 # Validator Testing
