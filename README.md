@@ -27,7 +27,7 @@ I collected images for the website and took a video for the background.
 # Features 
 1. **Nav Bar**
    
-![Navigation bar for website](https://github.com/donaltwo/project1-cat-corner/assets/155965788/2d418ee5-a338-4db9-917b-c2ab05e71216)
+![Navigation bar for website]!(https://github.com/donaltwo/project1-cat-corner/assets/155965788/02bd9a3c-7536-47ac-9028-167cf9b18476)
 
 Present on all pages the nav bar is fully accessible and responsive for users to navigate through the website.
 
@@ -61,6 +61,13 @@ Has a usable form to complete booking require information be completed before be
 ![cat being pet by a hand video background](https://github.com/donaltwo/project1-cat-corner/assets/155965788/e701c05e-4d1e-4dff-b5ec-194d8929bded)
 
 The confirmation page plays a looped muted video.
+
+7. **Home icon**
+8. 
+[Home icon ](https://github.com/donaltwo/project1-cat-corner/assets/155965788/cb77a6a8-e5a1-42d1-b9ce-44c1338e64ef)
+
+At footer of gallery takes user back to home page after scrolling to bottom of gallery page and the confirmation page to direct the user back to the index.
+
 
 # Testing
 To highlight an initial misunderstanding of mine as this was my first time using Github was that I would make very minor changes, fixing a typo, coding a single line etc. and would save committed the changes and push to see the effected changes reflected in my local copy of the website.
@@ -117,7 +124,7 @@ Due to this being my first ever website project I struggled with coding and the 
 
 
 # Deployment
-I published the Github page with my website thus deployimng the website to be live.
+I published the Github page with my website  by going to my repository settings and under the code and automations thus deploying the website to be live.
 
 #  Media
 All the images and video were taken by myself Donal Twomey and therefore my own works that are displayed.
