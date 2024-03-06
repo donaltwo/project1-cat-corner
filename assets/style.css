@@ -74,7 +74,7 @@ body {
   height: 100vh;
   padding: 15px;
   box-sizing: content-box;
-  background-image:url(assets/imgs/cattatytobox.jpg);
+  background-image:url("https://i.imgur.com/CvHMZe2.jpeg");
   background-repeat: no-repeat;
   background-size: contain;
   display: flex;
@@ -100,10 +100,10 @@ header {
   align-items: baseline;
 }
 
-.hero-image[src*="assets/imgs/2catstower.jpg"] {
+.hero-image {
   height: 800px;
   width: 100%;
-  background-image:url("assets/imgs/2catstower.jpg");
+  background-image: url(https://i.imgur.com/S0FkJGF.jpeg);
   background-repeat: no-repeat;
   background-position: center;
 }
