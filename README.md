@@ -32,13 +32,13 @@ I collected images for the website and took a video for the background.
 Present on all pages the nav bar is fully accessible and responsive for users to navigate through the website.
 
 2. **Hero Image**
-3. 
+
 ![two cats looking at camera](image.png)
 
 This landing image anchors the home page and capture's user attention.
 
 3. **Footer**
-4. 
+
 ![social media footer](https://github.com/donaltwo/project1-cat-corner/assets/155965788/b7f96079-d3e2-4ee2-b1fa-73b79dfb3ddd)
 
 Directs the user to external social media links.
