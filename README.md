@@ -10,9 +10,10 @@
 6. [Deployment](#deployment)
 7. [Media](#media)
 8. [Credits & Acknowledgements](#credits--acknowledgements)
+# Cat Corner
 
 # Introduction 
-Cat Corner
+
 Welcome to Cat Corner a website dedicated to lovers of cats and coffee! I used my own two cats Diablo and Persephone and built a website around them. The site's audience if for anyone who likes cats and relaxation.
 
 # Preparation Phase
