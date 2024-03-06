@@ -95,8 +95,7 @@ This is why there is over 280+ commits present on the website, I wanted to make 
 
 
 # Lighthouse Scoring
-![Lighthouse scores for performance, accessibility, best practices, SEO](https://github.com/donaltwo/project1-cat-corner/assets/155965788/a420c960-0dbd-4b6d-843f-221df21e79ed)
-
+![Lighthouse scores for performance, accessibility, best practices, SEO](https://github.com/donaltwo/project1-cat-corner/assets/155965788/60ace353-34ba-43ec-9ae4-f8174ad95982)
 
 # Validator Testing
 
@@ -137,10 +136,6 @@ Due to this being my first ever website project I struggled with coding and the 
 # Deployment
 Publishing
 I published the Github page with my website  by going to my repository settings and under the code and automations thus deploying the website to be live.
-1. CLick on settings 2. 3. 4.
-   Cloning
-   Making a copy to be amendable with keeping the original intact extracts the website to a folder.
-   Forking 
 
 #  Media
 All the images and video were taken by myself Donal Twomey and therefore my own works that are displayed.
