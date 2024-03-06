@@ -13,7 +13,7 @@ Credits & Acknowledgements
 Cat Corner
 Welcome to Cat Corner a website dedicated to lovers of cats and coffee! I used my own two cats Diablo and Persephone and built a website around them. The site's audience if for anyone who likes cats and relaxation.
 
-# Prepration Phase
+# Preparation Phase
 I began by brainstorming the concept and creating a wire frame on Figma for the skeleton for the website.
 ![Figma mock up of home page with cat and coffee](https://github.com/donaltwo/project1-cat-corner/assets/155965788/21eecd58-f5ef-4bfa-b80a-ebd80ca89caa)
 
@@ -92,8 +92,8 @@ This is why there is over 250+ commits present on the website, I wanted to make 
 
 # Known Issues
 Due to this being my first ever website project I struggled with coding and the design aspects. I have learnt a lot from this however there are still present issues on the website if I had additional time I would focus on solving.
-- [] Hero text not diplsaying
-- [] Website scaling on mobile isn't optimal
+- [] Hero text not showing correctly.
+- [] Website scaling on mobile isn't optimal.
 
 
 # Deployment
